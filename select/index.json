@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Piece",
+  "base_artist": "HIROMU (INI)",
+  "createdAt": "2025-12-01T15:18:22.906355Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Told You So (Single Edit/Vocal Up/Edit Piece)",
+      "artist": "Keith Urban",
+      "has_synced": false,
+      "path": "select/01_I_Told_You_So_(Single_Edit_Vocal_Up_Edit_Piece)_Keith_Urban.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Piece At a Time",
+      "artist": "Johnny Cash & Tennessee Three",
+      "has_synced": true,
+      "path": "select/02_One_Piece_At_a_Time_Johnny_Cash_&_Tennessee_Three.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Piece at a Time",
+      "artist": "Tennessee Three",
+      "has_synced": true,
+      "path": "select/03_One_Piece_at_a_Time_Tennessee_Three.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Piece at a Time",
+      "artist": "Johnny Cash feat. Tennessee Three",
+      "has_synced": true,
+      "path": "select/04_One_Piece_at_a_Time_Johnny_Cash_feat._Tennessee_Three.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Piece at a Time (Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/05_One_Piece_at_a_Time_(Album_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Piece Of My Heart",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/06_Piece_Of_My_Heart_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Piece of My Heart (2007 Remaster)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/07_Piece_of_My_Heart_(2007_Remaster)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Piece of My Heart (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/08_Piece_of_My_Heart_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Conversation Piece - Stereo Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_Conversation_Piece_-_Stereo_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Conversation Piece (Stereo Version)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/10_Conversation_Piece_(Stereo_Version)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Conversation Piece (written 1969, recorded 1970, re-recorded 2002)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_Conversation_Piece_(written_1969,_recorded_1970,_re-recorded_2002)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Conversation Piece (written 1969, recorded 1970, re-recorded 2002)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/12_Conversation_Piece_(written_1969,_recorded_1970,_re-recorded_2002)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Piece of Cake",
+      "artist": "Magnapop",
+      "has_synced": true,
+      "path": "select/13_Piece_of_Cake_Magnapop.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Time Piece",
+      "artist": "Nick Drake",
+      "has_synced": false,
+      "path": "select/14_Time_Piece_Nick_Drake.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Piece Of Our Days",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_01_Piece_Of_Our_Days_JUJU.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "PIECES OF A DREAM",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_02_PIECES_OF_A_DREAM_JUJU.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Pieces",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_03_Pieces_JUJU.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Piece Of Our Days",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_04_Piece_Of_Our_Days_JUJU.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Piece of love",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_05_Piece_of_love_JUJU.txt"
+    }
+  ]
+}
